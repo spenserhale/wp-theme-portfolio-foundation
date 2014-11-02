@@ -1,6 +1,4 @@
-wp-theme-portfolio-tth
+wp-theme-portfolio-foundation
 ======================
 
-The theme is built on top of a Foundation Framework custom download.
-
-It is built as an learning experience from the Wordpress Theme Development track on Treehouse
+A professional clean, modern, simple portfolio Wordpress theme built on top of foundation
